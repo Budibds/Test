@@ -1,7 +1,7 @@
 {
-  "name": "happy-birthday-card",
+  "name": "gift-card",
   "version": "3.0.2",
-  "description": "A birthday card template",
+  "description": "A gift card",
   "main": "index.js",
   "default": "index.html",
   "targets": {
@@ -21,8 +21,8 @@
     "url": "git+https://github.com/AnshumanMahato/Happy-Birthday-Card.git"
   },
   "keywords": [
-    "happy-birthday",
-    "birthday-card"
+    "hi",
+    "gift-card"
   ],
   "author": "Anshuman Mahato",
   "license": "ISC",
